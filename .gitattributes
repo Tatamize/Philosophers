@@ -1,0 +1,5 @@
+# Ignore library, pdf, images
+mlx/* linguist-vendored
+*.pdf linguist-vendored
+*.png linguist-vendored
+*.jpg linguist-vendored
